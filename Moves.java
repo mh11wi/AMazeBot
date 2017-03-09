@@ -1,14 +1,9 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package bots.SampleBot;
 
 import java.awt.Point;
 /**
  *
- * @author jonathan.goode & maddie.hill
+ * @author jonathan.goode & madeleine.hill
  */
 public class Moves {
     
