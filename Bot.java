@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package bots.SampleBot;
 
 import amazebot2016.utils.Compass;
@@ -10,7 +5,7 @@ import java.awt.Point;
 import static java.lang.Math.*;
 /**
  *
- * @author jonathan.goode & maddie.hill
+ * @author jonathan.goode & madeleine.hill
  */
 public class Bot {
     
