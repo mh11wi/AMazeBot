@@ -63,8 +63,7 @@ public class Brain extends BotBrain {
             MazeBot= new Bot(c,d,a,b);
             history.add(new Point(c,d));
             runMaze();
-            
-            
+              
         }
 
 // A forever loop that will run until the maze is solved or the bot exhausts
