@@ -94,6 +94,5 @@ public int secondBestDirection(int oldDurr,int bestDurr){
  }
  public Point getPaws(){
      return new Point(xPos,yPos);
- }
-         
+ }       
 }
