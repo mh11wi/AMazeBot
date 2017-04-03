@@ -11,7 +11,6 @@ public class Moves {
     private boolean[] to; 
     
     public Moves(){
-        
         from = new boolean[4];
         to = new boolean[4];
         
